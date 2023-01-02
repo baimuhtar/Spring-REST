@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Spring-REST" />
+        <module name="spring-rest" />
         <module name="spring_course_rest" />
       </profile>
     </annotationProcessing>
